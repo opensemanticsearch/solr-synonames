@@ -1,0 +1,3 @@
+[submodule "aleph-elasticsearch"]
+	path = aleph-elasticsearch
+	url = https://github.com/opensemanticsearch/aleph-elasticsearch.git
